@@ -16,6 +16,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.*;
 
+/**
+ * client的方式接收发送消息
+ */
 public class RocketMqTest {
 
 	/**
